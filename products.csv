@@ -1,0 +1,7 @@
+product_id,product_name,product_family,clinical_area,product_type,description,source_url,publish_date
+P001,EVIS X1,Endoscopy,GI,Imaging,Advanced endoscopy visualization system,https://example.com/evisx1,2025-01-01
+P002,VISERA ELITE III,Surgery,Surgery,Imaging,Integrated surgical imaging platform,https://example.com/visera,2024-01-01
+P003,GI Scope,Endoscopy,GI,Scope,Flexible GI endoscopy scope for diagnostic use,https://example.com/giscope,2025-02-01
+P004,ENT Scope,Endoscopy,ENT,Scope,Endoscopic scope for ENT procedures,https://example.com/entscope,2024-11-15
+P005,Surgical Camera,Surgery,Surgery,Camera,High-definition camera head for OR imaging,https://example.com/camera,2024-08-10
+P006,Uro Scope,Endoscopy,Urology,Scope,Endoscopic scope for urology workflow,https://example.com/uroscope,2025-03-05
